@@ -1,1 +1,94 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"FIR_910","dbfId":115634,"name":"그을리는 바람","type":"SPELL","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":3,"text":"피해를 $3 줍니다.\n무작위 화염 주문을 버리고\n피해를 $3 더 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"아니 땐 굴뚝에 연기 날까라는 속담이 있죠... 그리고 불을 땐 곳에는 보통 불이 더 있습니다.","spellSchool":"FIRE","portrait":"HS34-317_S.tif:bc66d8d8e15d43c28b98e565bdbd37f8","set":"EMERALD_DREAM","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":2},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/FIR_910.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-317_S.tif:bc66d8d8e15d43c28b98e565bdbd37f8","goldenMaterial":"FIR_910_PremiumCard.mat:fb62a2714d2cc9e44820e5a46b3e57fa","goldenAnimation":"FIR_910_PremiumCard.asset:8cd080e6ecc55b644acf5e0e0cc57ef4"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Scorching Winds",
+  "card": {
+    "id": "FIR_910",
+    "dbfId": 115634,
+    "name": "그을리는 바람",
+    "text": "피해를 $3 줍니다.\n무작위 화염 주문을 버리고\n피해를 $3 더 줍니다.",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "FIRE",
+    "cost": 3,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-317_S.tif:bc66d8d8e15d43c28b98e565bdbd37f8",
+    "flavor": "아니 땐 굴뚝에 연기 날까라는 속담이 있죠... 그리고 불을 땐 곳에는 보통 불이 더 있습니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]피해를 $3 줍니다.\n무작위 화염 주문을 버리고\n피해를 $3 더 줍니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-05-14",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

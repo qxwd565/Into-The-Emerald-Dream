@@ -1,1 +1,121 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_462","dbfId":114308,"name":"월광 비룡","type":"MINION","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":4,"text":"<b>모면</b>, 내 턴이 끝날 때 무작위 용족을 얻습니다.","attack":3,"health":6,"durability":0,"armor":0,"flavor":"공격력이 천 배는 돼야 하는 것 아닌가요?","spellSchool":"","portrait":"HS34-175_M.tif:6a9bc51cc098423cb4f2742d5156c7d0","set":"EMERALD_DREAM","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":24},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1211,"name":"모면","value":1},{"id":4533,"name":"제작 결과 능력","value":1},{"id":4577,"name":"게임 태그 4577","value":1}],"races":["DRAGON"],"race":"용족","classes":[],"art":"art/EDR_462.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-175_M.tif:6a9bc51cc098423cb4f2742d5156c7d0","goldenMaterial":"EDR_462_PremiumCard.mat:52a28400f0d5a1046bed06f08fcf9972","goldenAnimation":"EDR_462_PremiumCard.asset:4be569d9b4810034185e215c3e987517"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Selenic Drake",
+  "card": {
+    "id": "EDR_462",
+    "dbfId": 114308,
+    "name": "월광 비룡",
+    "text": "<b>모면</b>, 내 턴이 끝날 때 무작위 용족을 얻습니다.",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "rarity": "RARE",
+    "race": "용족",
+    "races": [
+      "DRAGON"
+    ],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 3,
+    "health": 6,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-175_M.tif:6a9bc51cc098423cb4f2742d5156c7d0",
+    "flavor": "공격력이 천 배는 돼야 하는 것 아닌가요?",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 24
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1211,
+        "name": "모면",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4577,
+        "name": "게임 태그 4577",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>모면</b>, 내 턴이 끝날 때& 무작위 용족을 얻습니다.~GAMEPLAY_ASPROXY_EDR_462",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,1 +1,116 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"FIR_904","dbfId":115628,"name":"지옥불 불길","type":"MINION","cardClass":"DEMONHUNTER","rarity":"RARE","collectible":true,"cost":2,"text":"내가 지옥 주문을 시전한 후에, 이 하수인을 파괴하고 모든 적에게 피해를 2 줍니다.","attack":2,"health":3,"durability":0,"armor":0,"flavor":"마치 불처럼, 지옥불처럼, 살갗 밑의 이 불길이.","spellSchool":"","portrait":"HS34-308_M.tif:381e9c2af71b429f89ee430db2f25e4a","set":"EMERALD_DREAM","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":4533,"name":"제작 결과 능력","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/FIR_904.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-308_M.tif:381e9c2af71b429f89ee430db2f25e4a","goldenMaterial":"FIR_904_PremiumCard.mat:192accedc0f49444496df0c1f41bf2de","goldenAnimation":"FIR_904_PremiumCard.asset:7e2c345c0ba0b434588c2d650c8f3753"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Felfire Blaze",
+  "card": {
+    "id": "FIR_904",
+    "dbfId": 115628,
+    "name": "지옥불 불길",
+    "text": "내가 지옥 주문을 시전한 후에, 이 하수인을 파괴하고 모든 적에게 피해를 2 줍니다.",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "rarity": "RARE",
+    "race": "정령",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 2,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-308_M.tif:381e9c2af71b429f89ee430db2f25e4a",
+    "flavor": "마치 불처럼, 지옥불처럼, 살갗 밑의 이 불길이.",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내가 지옥 주문을 시전한 후에,& 이 하수인을 파괴하고 모든 적에게 피해를 2 줍니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-05-14",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

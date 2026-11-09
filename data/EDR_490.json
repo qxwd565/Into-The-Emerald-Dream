@@ -1,1 +1,103 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_490","dbfId":115215,"name":"수면 마비","type":"SPELL","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":5,"text":"<b>선택 - </b> <b>도발</b> 능력이 있고 공격할 수 없는 3/6 악마를 둘 소환합니다. 또는 적 하수인을 처치합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"야생 요마가 마비됐습니다! 잠을 잘 수가 없어요!","spellSchool":"SHADOW","portrait":"HS34-190_S.tif:2050d5c6529a23145acd1f8451b8b6cc","set":"EMERALD_DREAM","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":443,"name":"선택","value":1},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/EDR_490.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-190_S.tif:2050d5c6529a23145acd1f8451b8b6cc","goldenMaterial":"EDR_490_PremiumCard.mat:19b9c6b91d0b4c041b40174fab3ae890","goldenAnimation":"EDR_490_PremiumCard.asset:62acc93ccb96909459cdbeac5da6f8e1"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Sleep Paralysis",
+  "card": {
+    "id": "EDR_490",
+    "dbfId": 115215,
+    "name": "수면 마비",
+    "text": "<b>선택 - </b> <b>도발</b> 능력이 있고 공격할 수 없는 3/6 악마를 둘 소환합니다. 또는 적 하수인을 처치합니다.",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "SHADOW",
+    "cost": 5,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": true,
+    "installed": true,
+    "portrait": "HS34-190_S.tif:2050d5c6529a23145acd1f8451b8b6cc",
+    "flavor": "야생 요마가 마비됐습니다! 잠을 잘 수가 없어요!",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 443,
+        "name": "선택",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "nativeRawText": "<b>선택 - </b> <b>도발</b> 능력이 있고 공격할 수 없는 3/6 악마를 둘 소환합니다. 또는 적 하수인을 처치합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [
+    115937,
+    115217,
+    115216
+  ],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

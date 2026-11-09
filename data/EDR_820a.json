@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_820a","dbfId":115200,"name":"잠식하는 공포","type":"SPELL","cardClass":"DEMONHUNTER","collectible":false,"cost":3,"text":"<b>휴면</b> 상태인 무작위 공포씨앗을 둘 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS34-137_S.tif:ee075deaf6a14b4faef564fd3315cbb2","set":"EMERALD_DREAM","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":1518,"name":"휴면","value":1}],"races":[],"race":"","classes":[],"art":"art/EDR_820a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-137_S.tif:ee075deaf6a14b4faef564fd3315cbb2","goldenMaterial":"EDR_820a_PremiumCard.mat:a2f692d918c29644faf303ffe84eceb7","goldenAnimation":"EDR_820a_PremiumCard.asset:2a05d3db6bb54d943be7210184bd6a7e"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Encroaching Fear",
+  "card": {
+    "id": "EDR_820a",
+    "dbfId": 115200,
+    "name": "잠식하는 공포",
+    "text": "<b>휴면</b> 상태인 무작위 공포씨앗을 둘 소환합니다.",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-137_S.tif:ee075deaf6a14b4faef564fd3315cbb2",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1518,
+        "name": "휴면",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>휴면</b> 상태인 무작위 공포씨앗을 둘 소환합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [
+    114658,
+    114655,
+    114661
+  ],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

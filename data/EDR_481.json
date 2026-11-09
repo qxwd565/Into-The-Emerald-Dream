@@ -1,1 +1,111 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_481","dbfId":114298,"name":"신화의 룬곰","type":"MINION","cardClass":"HUNTER","rarity":"COMMON","collectible":true,"cost":4,"text":"<b>도발</b>, <b>전투의 함성</b>:\n이 하수인의 공격력이\n4 이상이면, 이 하수인을 복사하여 소환합니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"다수결에 의해, 저건 룬곰입니다.","spellSchool":"","portrait":"HS34-026_M.tif:ed8df22eee0d456d8bfdf83f601212bb","set":"EMERALD_DREAM","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/EDR_481.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-026_M.tif:ed8df22eee0d456d8bfdf83f601212bb","goldenMaterial":"EDR_481_PremiumCard.mat:ea4379240b754114e88de066d5c99355","goldenAnimation":"EDR_481_PremiumCard.asset:f63b561f14bf24b4d80865f7e43f3d6f"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Mythical Runebear",
+  "card": {
+    "id": "EDR_481",
+    "dbfId": 114298,
+    "name": "신화의 룬곰",
+    "text": "<b>도발</b>, <b>전투의 함성</b>:\n이 하수인의 공격력이\n4 이상이면, 이 하수인을 복사하여 소환합니다.",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "rarity": "COMMON",
+    "race": "야수",
+    "races": [
+      "BEAST"
+    ],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 3,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-026_M.tif:ed8df22eee0d456d8bfdf83f601212bb",
+    "flavor": "다수결에 의해, 저건 룬곰입니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>도발</b>, <b>전투의 함성</b>:\n이 하수인의 공격력이\n4 이상이면, 이 하수인을 복사하여 소환합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,3 +1,10 @@
-# HSdeck Into The Emerald Dream 카드 API
+# Into-The-Emerald-Dream
 
-`cards.json`과 `render.json`은 기존 HS Plus 카드 정보를 기반으로 하며, `art/`는 설치된 클라이언트의 원화입니다. `golden/`은 해당 카드의 원본 황금 원화 재질·애니메이션·텍스처입니다. 날짜별 과거 원화나 황금 효과를 보장하지 않습니다.
+HSdeck schema 1 카드 API입니다. 최초 추가 날짜의 스펙은 `data/<카드ID>.json`의 `card`에 적고, 이후 패치는 `card.patches`에 **변경한 필드만** 저장했습니다. 날짜는 한국 시간(Asia/Seoul)입니다.
+
+- `cards.json`: 현재 카드 스펙 및 기존 원화 URL
+- `render.json`: 현재 스펙 + 과거 날짜별 차이값
+- `history.json`: 구버전 플러그인 호환
+- `release-policy.json`: 본 세트, 미니세트, 선행 배포 카드 날짜
+
+최초 값 중 공식 패치로 확인하지 못한 내용은 `card.initialSpecStatus`를 통해 잠정으로 표시합니다. **기존 art/golden 원화 및 황금 애니메이션은 그대로 보존했습니다.**

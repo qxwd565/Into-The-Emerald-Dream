@@ -1,1 +1,83 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_847pt2","dbfId":117399,"name":"식물 골렘","type":"MINION","cardClass":"DRUID","collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS34-143_M.tif:05aa5c778c0c494eaecc36c071674e35","set":"EMERALD_DREAM","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4}],"races":[],"race":"","classes":[],"art":"art/EDR_847pt2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-143_M.tif:05aa5c778c0c494eaecc36c071674e35","goldenMaterial":"EDR_847pt2_PremiumCard.mat:25b7c6bcad6112e47bae22126d48001a","goldenAnimation":"EDR_847pt2_PremiumCard.asset:2767edd65548d9344ac1b9c58efc2b25"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Plant Golem",
+  "card": {
+    "id": "EDR_847pt2",
+    "dbfId": 117399,
+    "name": "식물 골렘",
+    "text": "",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 1,
+    "attack": 1,
+    "health": 1,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-143_M.tif:05aa5c778c0c494eaecc36c071674e35",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "nativeRawText": "",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

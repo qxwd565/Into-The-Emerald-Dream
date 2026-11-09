@@ -1,1 +1,80 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_263b","dbfId":115498,"name":"위대한 늑대의 인도","type":"SPELL","cardClass":"HUNTER","collectible":false,"cost":4,"text":"<b>속공</b> 능력이 있는 3/2 늑대를 둘 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS34-160_S.tif:8d1759d5ebf84f94a7e08b83a1987a97","set":"EMERALD_DREAM","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":791,"name":"속공","value":1}],"races":[],"race":"","classes":[],"art":"art/EDR_263b.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-160_S.tif:8d1759d5ebf84f94a7e08b83a1987a97","goldenMaterial":"EDR_263b_PremiumCard.mat:31e7519e4c5b5164bba8af55a34ba307","goldenAnimation":"EDR_263b_PremiumCard.asset:ad76b8a6ae198aa4d967a8f771356d2b"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Greatwolf's Guidance",
+  "card": {
+    "id": "EDR_263b",
+    "dbfId": 115498,
+    "name": "위대한 늑대의 인도",
+    "text": "<b>속공</b> 능력이 있는 3/2 늑대를 둘 소환합니다.",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-160_S.tif:8d1759d5ebf84f94a7e08b83a1987a97",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>속공</b> 능력이 있는 3/2 늑대를 둘 소환합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [
+    114053
+  ],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

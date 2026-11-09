@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_460t","dbfId":114297,"name":"보름달의 소원","type":"SPELL","cardClass":"PRIEST","rarity":"COMMON","collectible":false,"cost":3,"text":"<b>생명력 흡수</b> 하수인에게 피해를\n$6 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"ARCANE","portrait":"HS34-058_S.tif:2c4f4fcba66e4d02aa5d5b4ce1a0e01b","set":"EMERALD_DREAM","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":1635,"name":"주문 속성","value":1}],"races":[],"race":"","classes":[],"art":"art/EDR_460t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-058_S.tif:2c4f4fcba66e4d02aa5d5b4ce1a0e01b","goldenMaterial":"EDR_460t_PremiumCard.mat:6e9000906199a794ba365eeb41cbb410","goldenAnimation":"EDR_460t_PremiumCard.asset:e4276be5c5d91754f9073f80f8229f15"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Wish of the Full Moon",
+  "card": {
+    "id": "EDR_460t",
+    "dbfId": 114297,
+    "name": "보름달의 소원",
+    "text": "<b>생명력 흡수</b> 하수인에게 피해를\n$6 줍니다.",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "ARCANE",
+    "cost": 3,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-058_S.tif:2c4f4fcba66e4d02aa5d5b4ce1a0e01b",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>생명력 흡수</b> 하수인에게 피해를\n$6 줍니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

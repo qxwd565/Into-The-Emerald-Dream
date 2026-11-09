@@ -1,1 +1,78 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_463b","dbfId":114312,"name":"조종하는 덩굴","type":"SPELL","cardClass":"PRIEST","collectible":false,"cost":2,"text":"비용이 2인 무작위 하수인을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"SHADOW","portrait":"HS34-174_S.tif:15fe15a2580246f7b5e5f2c45eb2c833","set":"EMERALD_DREAM","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/EDR_463b.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-174_S.tif:15fe15a2580246f7b5e5f2c45eb2c833","goldenMaterial":"EDR_463b_PremiumCard.mat:7d92d35c22cc9044db49da13188b7d57","goldenAnimation":"EDR_463b_PremiumCard.asset:8524438708163e74791b9113548cc610"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Controlling Vines",
+  "card": {
+    "id": "EDR_463b",
+    "dbfId": 114312,
+    "name": "조종하는 덩굴",
+    "text": "비용이 2인 무작위 하수인을 소환합니다.",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "race": "",
+    "races": [],
+    "spellSchool": "SHADOW",
+    "cost": 2,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-174_S.tif:15fe15a2580246f7b5e5f2c45eb2c833",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "nativeRawText": "비용이 2인 무작위 하수인을 소환합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

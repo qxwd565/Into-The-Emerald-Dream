@@ -1,1 +1,119 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_258","dbfId":114544,"name":"불굴의 토레스","type":"MINION","cardClass":"PALADIN","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>천상의 보호막</b>, <b>도발</b>\n내 <b><b>천상의 보호막</b></b>들이\n세 번 피해를 받아야 부서집니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"토레스는 무적 귀환을 유난히 진지하게 받아들였습니다.","spellSchool":"","portrait":"HS34-052_M.tif:8388e93468b247a7866e9e6f5c0b34de","set":"EMERALD_DREAM","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":362,"name":"지속 효과","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":[],"art":"art/EDR_258.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-052_M.tif:8388e93468b247a7866e9e6f5c0b34de","goldenMaterial":"EDR_258_PremiumCard.mat:2aa41ac5ed161c4408030786b9ab0af8","goldenAnimation":"EDR_258_PremiumCard.asset:4b636995d8b66774a834c2d716a9667e"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Toreth the Unbreaking",
+  "card": {
+    "id": "EDR_258",
+    "dbfId": 114544,
+    "name": "불굴의 토레스",
+    "text": "<b>천상의 보호막</b>, <b>도발</b>\n내 <b><b>천상의 보호막</b></b>들이\n세 번 피해를 받아야 부서집니다.",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "rarity": "LEGENDARY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 3,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-052_M.tif:8388e93468b247a7866e9e6f5c0b34de",
+    "flavor": "토레스는 무적 귀환을 유난히 진지하게 받아들였습니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 362,
+        "name": "지속 효과",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>천상의 보호막</b>, <b>도발</b>\n내 <b><b>천상의 보호막</b></b>들이\n세 번 피해를 받아야 부서집니다.",
+    "nativeTextBuilder": 7,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

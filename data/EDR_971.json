@@ -1,1 +1,114 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_971","dbfId":115938,"name":"동물 관리인","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":1,"text":"내 턴이 끝날 때, 각 영웅의 생명력을#3 회복시킵니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"자기가 관리하는 동물들에게 두 가지를 가르칩니다. \"따라와!\"와 \"치유해!\"죠.","spellSchool":"","portrait":"HS34-208_M.tif:5005d6b36c2a44fdba980e59f7b92164","set":"EMERALD_DREAM","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":4533,"name":"제작 결과 능력","value":1},{"id":4577,"name":"게임 태그 4577","value":1}],"races":[],"race":"","classes":[],"art":"art/EDR_971.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-208_M.tif:5005d6b36c2a44fdba980e59f7b92164","goldenMaterial":"EDR_971_PremiumCard.mat:266d3b4901d3e5549b834513945cd40f","goldenAnimation":"EDR_971_PremiumCard.asset:65a3652164799d74fae45b12ce233b88"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Critter Caretaker",
+  "card": {
+    "id": "EDR_971",
+    "dbfId": 115938,
+    "name": "동물 관리인",
+    "text": "내 턴이 끝날 때, 각 영웅의 생명력을#3 회복시킵니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 1,
+    "attack": 2,
+    "health": 2,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-208_M.tif:5005d6b36c2a44fdba980e59f7b92164",
+    "flavor": "자기가 관리하는 동물들에게 두 가지를 가르칩니다. \"따라와!\"와 \"치유해!\"죠.",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4577,
+        "name": "게임 태그 4577",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내 턴이 끝날 때,& 각 영웅의 생명력을#3 회복시킵니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

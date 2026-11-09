@@ -1,1 +1,100 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_851p","dbfId":114056,"name":"위습의 축복","type":"HERO_POWER","cardClass":"MAGE","collectible":false,"cost":2,"text":"위습을 |4(<b>1마리</b>,<b>1마리</b>) 소환합니다. 모든 적에게 <b>$1</b>의 피해를 무작위로 나누어 입힙니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS34-034_HP.tif:68781cba9de348b3931b41914e7b3656","set":"EMERALD_DREAM","nativeTags":[{"id":2,"name":"효과 수치 1","value":1},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":10},{"id":349,"name":"게임 태그 349","value":1},{"id":2165,"name":"게임 태그 2165","value":1},{"id":3626,"name":"연마","value":1},{"id":4173,"name":"게임 태그 4173","value":1}],"races":[],"race":"","classes":[],"art":"art/EDR_851p.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-034_HP.tif:68781cba9de348b3931b41914e7b3656","goldenMaterial":"EDR_851p_PremiumCard.mat:9956babfd292b31439eddeb3318b3490","goldenAnimation":"EDR_851p_PremiumCard.asset:6a8f3fd4c8e2c864e859062f8dce69d2"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Blessing of the Wisp",
+  "card": {
+    "id": "EDR_851p",
+    "dbfId": 114056,
+    "name": "위습의 축복",
+    "text": "위습을 |4(<b>1마리</b>,<b>1마리</b>) 소환합니다. 모든 적에게 <b>$1</b>의 피해를 무작위로 나누어 입힙니다.",
+    "type": "HERO_POWER",
+    "cardClass": "MAGE",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-034_HP.tif:68781cba9de348b3931b41914e7b3656",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 10
+      },
+      {
+        "id": 349,
+        "name": "게임 태그 349",
+        "value": 1
+      },
+      {
+        "id": 2165,
+        "name": "게임 태그 2165",
+        "value": 1
+      },
+      {
+        "id": 3626,
+        "name": "연마",
+        "value": 1
+      },
+      {
+        "id": 4173,
+        "name": "게임 태그 4173",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "위습을 |4(<b>@마리</b>,<b>@마리</b>) 소환합니다. 모든 적에게 <b>$@</b>의 피해를 무작위로 나누어 입힙니다.",
+    "nativeTextBuilder": 7,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [
+    116450
+  ],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

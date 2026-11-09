@@ -1,1 +1,101 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_233t2","dbfId":114645,"name":"정령 매","type":"MINION","cardClass":"SHAMAN","collectible":false,"cost":3,"text":"<b>질풍</b>","attack":4,"health":3,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS34-187_M.tif:b68180d04a37437ab425815988d11bee","set":"EMERALD_DREAM","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":189,"name":"질풍","value":1},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":2534,"name":"게임 태그 2534","value":1}],"races":["UNDEAD","BEAST"],"race":"언데드, 야수","classes":[],"art":"art/EDR_233t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-187_M.tif:b68180d04a37437ab425815988d11bee","goldenMaterial":"EDR_233t2_PremiumCard.mat:1509c7a83c95da04c83becadbed490ef","goldenAnimation":"EDR_233t2_PremiumCard.asset:a1e538e81ba01ce4193a6b9b9f34ec41"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Spirit Falcon",
+  "card": {
+    "id": "EDR_233t2",
+    "dbfId": 114645,
+    "name": "정령 매",
+    "text": "<b>질풍</b>",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "race": "언데드, 야수",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 4,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-187_M.tif:b68180d04a37437ab425815988d11bee",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 189,
+        "name": "질풍",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 2534,
+        "name": "게임 태그 2534",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>질풍</b>",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

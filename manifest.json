@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "set": "Into The Emerald Dream",
+  "repository": "qxwd565/Into-The-Emerald-Dream",
+  "sourceRecords": 252,
+  "sourceVariants": 0,
+  "totalSourceJSON": 252,
+  "collectible": 183,
+  "uncollectible": 69,
+  "pendingReleaseIds": [],
+  "patchVerifiedIds": [
+    "EDR_781",
+    "FIR_960"
+  ],
+  "patchVerifiedCardCount": 2,
+  "patchEvents": 2,
+  "excludedDifferentNativeSet": [],
+  "historicalAccuracy": "Historical initial snapshots are provisional, except fields directly reconstructed from cited patches; no exhaustive patch verification claimed",
+  "existingArtworkAndGoldenPreserved": true,
+  "committedPatchEvents": 2,
+  "skippedUnconfirmedFields": 0
+}

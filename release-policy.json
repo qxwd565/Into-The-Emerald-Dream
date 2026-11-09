@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "timezone": "Asia/Seoul",
+  "default": {
+    "date": "2025-03-26",
+    "status": "verified"
+  },
+  "prefixes": {
+    "FIR_": {
+      "date": "2025-05-14",
+      "status": "verified"
+    }
+  },
+  "cards": {
+    "EDR_000": {
+      "date": "2025-02-19",
+      "status": "verified"
+    },
+    "EDR_105": {
+      "date": "2025-02-19",
+      "status": "verified"
+    }
+  },
+  "sources": {
+    "main": "https://hearthstone.blizzard.com/ko-kr/expansions-adventures/into-the-emerald-dream",
+    "mini": "https://hearthstone.blizzard.com/ko-kr/news/24204092"
+  }
+}

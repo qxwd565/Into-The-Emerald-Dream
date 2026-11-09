@@ -1,1 +1,83 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_209a","dbfId":117483,"name":"꿈의 성장물","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":10,"text":"내 다른 하수인들에게\n+1/+3을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS34-155_S.tif:2053ab9f6c0c4c9d8bf8d1a4670857c0","set":"EMERALD_DREAM","nativeTags":[{"id":48,"name":"마나 비용","value":10},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":1200,"name":"게임 태그 1200","value":1}],"races":[],"race":"","classes":[],"art":"art/EDR_209a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-155_S.tif:2053ab9f6c0c4c9d8bf8d1a4670857c0","goldenMaterial":"EDR_209a_PremiumCard.mat:c9a5947c15340444694d72033143a280","goldenAnimation":"EDR_209a_PremiumCard.asset:1c16d5d4e50241543b00d5525f9458c7"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Growth of Dreams",
+  "card": {
+    "id": "EDR_209a",
+    "dbfId": 117483,
+    "name": "꿈의 성장물",
+    "text": "내 다른 하수인들에게\n+1/+3을 부여합니다.",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 10,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-155_S.tif:2053ab9f6c0c4c9d8bf8d1a4670857c0",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1200,
+        "name": "게임 태그 1200",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]내 다른 하수인들에게\n+1/+3을 부여합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

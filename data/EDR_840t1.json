@@ -1,1 +1,111 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_840t1","dbfId":114658,"name":"까마귀 공포씨앗","type":"MINION","cardClass":"DEMONHUNTER","collectible":false,"cost":1,"text":"<b>모면</b>, 1턴 동안 <b>휴면</b>합니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS34-015_M.tif:0a14d1b6413e48d8bc5debd1f88559a9","set":"EMERALD_DREAM","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":1211,"name":"모면","value":1},{"id":1518,"name":"휴면","value":1},{"id":1652,"name":"게임 태그 1652","value":1},{"id":2534,"name":"게임 태그 2534","value":1}],"races":["UNDEAD","BEAST"],"race":"언데드, 야수","classes":[],"art":"art/EDR_840t1.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-015_M.tif:0a14d1b6413e48d8bc5debd1f88559a9","goldenMaterial":"EDR_840t1_PremiumCard.mat:ef221f8d4d1d3604eac65f262607e723","goldenAnimation":"EDR_840t1_PremiumCard.asset:54815e0fbc2947a4c9c39eaabf3b3cf3"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Crow Dreadseed",
+  "card": {
+    "id": "EDR_840t1",
+    "dbfId": 114658,
+    "name": "까마귀 공포씨앗",
+    "text": "<b>모면</b>, 1턴 동안 <b>휴면</b>합니다.",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "race": "언데드, 야수",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "spellSchool": "",
+    "cost": 1,
+    "attack": 3,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-015_M.tif:0a14d1b6413e48d8bc5debd1f88559a9",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 1211,
+        "name": "모면",
+        "value": 1
+      },
+      {
+        "id": 1518,
+        "name": "휴면",
+        "value": 1
+      },
+      {
+        "id": 1652,
+        "name": "게임 태그 1652",
+        "value": 1
+      },
+      {
+        "id": 2534,
+        "name": "게임 태그 2534",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>모면</b>, 1턴 동안 <b>휴면</b>합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

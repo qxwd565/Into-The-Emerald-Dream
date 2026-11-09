@@ -1,1 +1,137 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"FIR_956","dbfId":115755,"name":"용거북","type":"MINION","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":4,"text":"<b>전투의 함성</b>: 내 손에 <b>어둠의 선물</b> 능력이 있는 하수인이 있으면 내 영웅이 방어도를 6 얻고 이번 턴에 공격력을 +3 얻습니다.","attack":3,"health":6,"durability":0,"armor":0,"flavor":"용암 속에 사는 사악한 거북이 멋지다고 생각했나요? 얘는 게다가 용거북입니다!","spellSchool":"","portrait":"HS34-337_M.tif:122b945b92d14a04b706be85b50df098","set":"EMERALD_DREAM","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":10},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":2523,"name":"게임 태그 2523","value":1},{"id":3627,"name":"어둠의 선물","value":1},{"id":4533,"name":"제작 결과 능력","value":1},{"id":4548,"name":"게임 태그 4548","value":1},{"id":4578,"name":"게임 태그 4578","value":1}],"races":["BEAST","DRAGON"],"race":"야수, 용족","classes":[],"art":"art/FIR_956.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-337_M.tif:122b945b92d14a04b706be85b50df098","goldenMaterial":"FIR_956_PremiumCard.mat:ea002d0cdb5457340bad9b702f1cb481","goldenAnimation":"FIR_956_PremiumCard.asset:45e75cf38ef89c4468a7b319755158eb"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Dragon Turtle",
+  "card": {
+    "id": "FIR_956",
+    "dbfId": 115755,
+    "name": "용거북",
+    "text": "<b>전투의 함성</b>: 내 손에 <b>어둠의 선물</b> 능력이 있는 하수인이 있으면 내 영웅이 방어도를 6 얻고 이번 턴에 공격력을 +3 얻습니다.",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "rarity": "RARE",
+    "race": "야수, 용족",
+    "races": [
+      "BEAST",
+      "DRAGON"
+    ],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 3,
+    "health": 6,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-337_M.tif:122b945b92d14a04b706be85b50df098",
+    "flavor": "용암 속에 사는 사악한 거북이 멋지다고 생각했나요? 얘는 게다가 용거북입니다!",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2523,
+        "name": "게임 태그 2523",
+        "value": 1
+      },
+      {
+        "id": 3627,
+        "name": "어둠의 선물",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4548,
+        "name": "게임 태그 4548",
+        "value": 1
+      },
+      {
+        "id": 4578,
+        "name": "게임 태그 4578",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성</b>: 내 손에 <b>어둠의 선물</b> 능력이 있는 하수인이 있으면& 내 영웅이 방어도를 6 얻고 이번 턴에 공격력을 +3 얻습니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-05-14",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

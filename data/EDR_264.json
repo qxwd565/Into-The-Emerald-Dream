@@ -1,1 +1,117 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_264","dbfId":116675,"name":"빛의 아이기스","type":"SPELL","cardClass":"PALADIN","rarity":"RARE","collectible":true,"cost":2,"text":"비용이 2인 무작위 하수인을\n소환하고 <b>도발</b>을 부여합니다.\n내 영웅 능력을 <b>연마</b>합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"바짝 붙어 앉아 봐! 화살이 지나가잖아!\"","spellSchool":"HOLY","portrait":"HS34-167_S.tif:0fe54a20968e426f9404ee46d5e3ac12","set":"EMERALD_DREAM","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":5},{"id":1724,"name":"게임 태그 1724","value":1},{"id":2589,"name":"간판 카드 존재","value":1},{"id":3626,"name":"연마","value":1},{"id":3692,"name":"연마 카드 관련","value":1}],"races":[],"race":"","classes":[],"art":"art/EDR_264.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-167_S.tif:0fe54a20968e426f9404ee46d5e3ac12","goldenMaterial":"EDR_264_PremiumCard.mat:66f63a622a13bcd4185ea0dea40cc5f6","goldenAnimation":"EDR_264_PremiumCard.asset:bb6b69bfca3840048b2f508b22b7f347"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Aegis of Light",
+  "card": {
+    "id": "EDR_264",
+    "dbfId": 116675,
+    "name": "빛의 아이기스",
+    "text": "비용이 2인 무작위 하수인을\n소환하고 <b>도발</b>을 부여합니다.\n내 영웅 능력을 <b>연마</b>합니다.",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "HOLY",
+    "cost": 2,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-167_S.tif:0fe54a20968e426f9404ee46d5e3ac12",
+    "flavor": "\"바짝 붙어 앉아 봐! 화살이 지나가잖아!\"",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      },
+      {
+        "id": 1724,
+        "name": "게임 태그 1724",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 3626,
+        "name": "연마",
+        "value": 1
+      },
+      {
+        "id": 3692,
+        "name": "연마 카드 관련",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]비용이 2인 무작위 하수인을\n소환하고 <b>도발</b>을 부여합니다.\n내 영웅 능력을 <b>연마</b>합니다.",
+    "nativeTextBuilder": 7,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [
+    114023,
+    114070
+  ],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

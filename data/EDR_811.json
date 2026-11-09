@@ -1,1 +1,119 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"EDR_811","dbfId":114303,"name":"흉물의 의례","type":"SPELL","cardClass":"DEATHKNIGHT","rarity":"COMMON","collectible":true,"cost":1,"text":"언데드를 <b>발견</b>합니다. <b>시체</b>를\n2개 소모해 그 언데드에게\n<b>어둠의 선물</b>을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"흉물이 둘이면 의례가 되는군요!","spellSchool":"SHADOW","portrait":"HS34-129_S.tif:f3378a1905894f208f19a1b9a46c00ee","set":"EMERALD_DREAM","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":1},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":2198,"name":"부정 룬","value":1},{"id":2559,"name":"시체","value":1},{"id":3627,"name":"어둠의 선물","value":1},{"id":4058,"name":"시체 소모","value":1}],"races":[],"race":"","classes":[],"art":"art/EDR_811.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS34-129_S.tif:f3378a1905894f208f19a1b9a46c00ee","goldenMaterial":"EDR_811_PremiumCard.mat:ba737422fa39d5045a4eace8bfbc03de","goldenAnimation":"EDR_811_PremiumCard.asset:b6714e9ddb54a4147b1668729dfc0bad"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Rite of Atrocity",
+  "card": {
+    "id": "EDR_811",
+    "dbfId": 114303,
+    "name": "흉물의 의례",
+    "text": "언데드를 <b>발견</b>합니다. <b>시체</b>를\n2개 소모해 그 언데드에게\n<b>어둠의 선물</b>을 부여합니다.",
+    "type": "SPELL",
+    "cardClass": "DEATHKNIGHT",
+    "classes": [],
+    "nativeSetId": 1946,
+    "set": "EMERALD_DREAM",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "SHADOW",
+    "cost": 1,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS34-129_S.tif:f3378a1905894f208f19a1b9a46c00ee",
+    "flavor": "흉물이 둘이면 의례가 되는군요!",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 2198,
+        "name": "부정 룬",
+        "value": 1
+      },
+      {
+        "id": 2559,
+        "name": "시체",
+        "value": 1
+      },
+      {
+        "id": 3627,
+        "name": "어둠의 선물",
+        "value": 1
+      },
+      {
+        "id": 4058,
+        "name": "시체 소모",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]언데드를 <b>발견</b>합니다. <b>시체</b>를\n2개 소모해 그 언데드에게\n<b>어둠의 선물</b>을 부여합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2025-03-26",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1946,
+    "slug": "into-the-emerald-dream",
+    "name": "에메랄드의 꿈 속으로",
+    "type": "",
+    "englishName": "Into The Emerald Dream"
+  },
+  "setOrder": 5,
+  "formats": [
+    "standard",
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}
