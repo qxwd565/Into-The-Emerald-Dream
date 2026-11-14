@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Constricting Thorns",
-  "card": {
+  "2025-03-26": {
     "id": "EDR_463a",
     "dbfId": 114311,
     "name": "옥죄는 가시",
-    "text": "공격력이\n3 이하인 하수인을 처치합니다.",
+    "text": "공격력이<br></br>3 이하인 하수인을 처치합니다.",
     "type": "SPELL",
     "cardClass": "PRIEST",
     "classes": [],
@@ -49,30 +46,10 @@
     ],
     "nativeRawText": "공격력이\n3 이하인 하수인을 처치합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-03-26",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1946,
-    "slug": "into-the-emerald-dream",
-    "name": "에메랄드의 꿈 속으로",
-    "type": "",
-    "englishName": "Into The Emerald Dream"
-  },
-  "setOrder": 5,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Constricting Thorns",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/EDR_463a.png"
   }
 }

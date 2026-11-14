@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Malorne the Waywatcher",
-  "card": {
+  "2025-03-26": {
     "id": "EDR_888",
     "dbfId": 115186,
     "name": "길잡이 말로른",
-    "text": "<b>전투의 함성:</b> <b>전설</b> 야생 신을\n<b>발견</b>합니다. 내 영웅 능력을 4번\n<b>연마</b>했으면 발견한 야생 신의\n비용이 (1)이 됩니다.",
+    "text": "<b>전투의 함성:</b> <b>전설</b> 야생 신을<br></br><b>발견</b>합니다. 내 영웅 능력을 4번<br></br><b>연마</b>했으면 발견한 야생 신의<br></br>비용이 (1)이 됩니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -112,46 +109,26 @@
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> <b>전설</b> 야생 신을\n<b>발견</b>합니다. 내 영웅 능력을 4번\n<b>연마</b>했으면 발견한 야생 신의\n비용이 (1)이 됩니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-03-26",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    116018,
-    113606,
-    113588,
-    114254,
-    113700,
-    114868,
-    115264,
-    114527,
-    113434,
-    115203,
-    114353,
-    117483,
-    117484,
-    116418,
-    116020
-  ],
-  "expansion": {
-    "id": 1946,
-    "slug": "into-the-emerald-dream",
-    "name": "에메랄드의 꿈 속으로",
-    "type": "",
-    "englishName": "Into The Emerald Dream"
-  },
-  "setOrder": 5,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Malorne the Waywatcher",
+    "root": true,
+    "relatedIds": [
+      116018,
+      113606,
+      113588,
+      114254,
+      113700,
+      114868,
+      115264,
+      114527,
+      113434,
+      115203,
+      114353,
+      117483,
+      117484,
+      116418,
+      116020
+    ],
+    "art": "art/EDR_888.png"
   }
 }

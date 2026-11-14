@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Glowroot Lure",
-  "card": {
+  "2025-03-26": {
     "id": "EDR_477",
     "dbfId": 114920,
     "name": "발광뿌리 미끼",
-    "text": "<b>도발</b>, 이번 게임에서\n내가 영웅 능력을 사용할 때마다 비용이 (1)씩 감소합니다.",
+    "text": "<b>도발</b>, 이번 게임에서<br></br>내가 영웅 능력을 사용할 때마다 비용이 (1)씩 감소합니다.",
     "type": "MINION",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -70,30 +67,10 @@
     ],
     "nativeRawText": "<b>도발</b>, 이번 게임에서\n내가 영웅 능력을 사용할 때마다 비용이 (1)씩 감소합니다.",
     "nativeTextBuilder": 7,
-    "releasedAt": "2025-03-26",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1946,
-    "slug": "into-the-emerald-dream",
-    "name": "에메랄드의 꿈 속으로",
-    "type": "",
-    "englishName": "Into The Emerald Dream"
-  },
-  "setOrder": 5,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Glowroot Lure",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/EDR_477.png"
   }
 }

@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Critter Caretaker",
-  "card": {
+  "2025-03-26": {
     "id": "EDR_971",
     "dbfId": 115938,
     "name": "동물 관리인",
@@ -85,30 +82,10 @@
     ],
     "nativeRawText": "내 턴이 끝날 때,& 각 영웅의 생명력을#3 회복시킵니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-03-26",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1946,
-    "slug": "into-the-emerald-dream",
-    "name": "에메랄드의 꿈 속으로",
-    "type": "",
-    "englishName": "Into The Emerald Dream"
-  },
-  "setOrder": 5,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Critter Caretaker",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/EDR_971.png"
   }
 }

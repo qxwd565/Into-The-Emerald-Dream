@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Barbed Thorn",
-  "card": {
+  "2025-03-26": {
     "id": "EDR_525",
     "dbfId": 114517,
     "name": "미늘 돋친 가시",
-    "text": "<b>선택 -</b> 이번 턴에\n<b>독성</b>을 얻습니다. 또는\n\"<b>죽음의 메아리:</b> 모든 적에게\n피해 2\"를 얻습니다.",
+    "text": "<b>선택 -</b> 이번 턴에<br></br><b>독성</b>을 얻습니다. 또는<br></br>\"<b>죽음의 메아리:</b> 모든 적에게<br></br>피해 2\"를 얻습니다.",
     "type": "WEAPON",
     "cardClass": "ROGUE",
     "classes": [],
@@ -80,33 +77,13 @@
     ],
     "nativeRawText": "[x]<b>선택 -</b> 이번 턴에\n<b>독성</b>을 얻습니다. 또는\n\"<b>죽음의_메아리:</b> 모든 적에게\n피해 2\"를 얻습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-03-26",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    117240,
-    117241
-  ],
-  "expansion": {
-    "id": 1946,
-    "slug": "into-the-emerald-dream",
-    "name": "에메랄드의 꿈 속으로",
-    "type": "",
-    "englishName": "Into The Emerald Dream"
-  },
-  "setOrder": 5,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Barbed Thorn",
+    "root": true,
+    "relatedIds": [
+      117240,
+      117241
+    ],
+    "art": "art/EDR_525.png"
   }
 }

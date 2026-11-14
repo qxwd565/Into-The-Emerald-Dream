@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Ancient of Yore",
-  "card": {
+  "2025-03-26": {
     "id": "EDR_979",
     "dbfId": 117302,
     "name": "옛적의 고대정령",
-    "text": "2턴 동안 <b>휴면</b>합니다.\n<b>휴면</b> 상태라면, 내 턴이\n끝날 때 방어도를 3 얻고\n카드를 뽑습니다.",
+    "text": "2턴 동안 <b>휴면</b>합니다.<br></br><b>휴면</b> 상태라면, 내 턴이<br></br>끝날 때 방어도를 3 얻고<br></br>카드를 뽑습니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -80,30 +77,10 @@
     ],
     "nativeRawText": "[x]2턴 동안 <b>휴면</b>합니다.\n<b>휴면</b> 상태라면, 내 턴이\n끝날 때 방어도를 3 얻고\n카드를 뽑습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-03-26",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1946,
-    "slug": "into-the-emerald-dream",
-    "name": "에메랄드의 꿈 속으로",
-    "type": "",
-    "englishName": "Into The Emerald Dream"
-  },
-  "setOrder": 5,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Ancient of Yore",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/EDR_979.png"
   }
 }

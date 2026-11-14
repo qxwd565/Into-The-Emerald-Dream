@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Shadowflame Stalker",
-  "card": {
+  "2025-05-14": {
     "id": "FIR_924",
     "dbfId": 115651,
     "name": "암흑불길 추적자",
@@ -123,30 +120,10 @@
     ],
     "nativeRawText": "<b>전투의 함성</b>:& <b>어둠의 선물</b> 능력이 있는 악마를 <b>발견</b>합니다. 그 악마를 복사하여 얻습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-05-14",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1946,
-    "slug": "into-the-emerald-dream",
-    "name": "에메랄드의 꿈 속으로",
-    "type": "",
-    "englishName": "Into The Emerald Dream"
-  },
-  "setOrder": 5,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Shadowflame Stalker",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/FIR_924.png"
   }
 }

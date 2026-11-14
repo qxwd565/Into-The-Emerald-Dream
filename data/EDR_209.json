@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Forest Lord Cenarius",
-  "card": {
+  "2025-03-26": {
     "id": "EDR_209",
     "dbfId": 113588,
     "name": "숲의 군주 세나리우스",
@@ -85,34 +82,14 @@
     ],
     "nativeRawText": "<b>세 번 선택 -</b> 내 다른 하수인들에게 +1/+3을 부여합니다. 또는 <b>도발</b> 능력이 있는 5/5 고대정령을 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2025-03-26",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    117483,
-    117484,
-    116418
-  ],
-  "expansion": {
-    "id": 1946,
-    "slug": "into-the-emerald-dream",
-    "name": "에메랄드의 꿈 속으로",
-    "type": "",
-    "englishName": "Into The Emerald Dream"
-  },
-  "setOrder": 5,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Forest Lord Cenarius",
+    "root": true,
+    "relatedIds": [
+      117483,
+      117484,
+      116418
+    ],
+    "art": "art/EDR_209.png"
   }
 }

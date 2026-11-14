@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Renferal, the Malignant",
-  "card": {
+  "2025-03-26": {
     "id": "EDR_526",
     "dbfId": 114518,
     "name": "악의적인 렌퍼럴",
@@ -102,30 +99,10 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 상대편의 손에 있는 무작위 카드 @장을 한 턴 동안 가둡니다. <i>(내가 이 카드를 낼 때마다 강화됩니다.)</i>",
     "nativeTextBuilder": 7,
-    "releasedAt": "2025-03-26",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1946,
-    "slug": "into-the-emerald-dream",
-    "name": "에메랄드의 꿈 속으로",
-    "type": "",
-    "englishName": "Into The Emerald Dream"
-  },
-  "setOrder": 5,
-  "formats": [
-    "standard",
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Renferal, the Malignant",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/EDR_526.png"
   }
 }
